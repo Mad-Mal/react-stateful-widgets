@@ -29,5 +29,6 @@
   "bugs": {
     "url": "https://github.com/LambdaSchool/react-stateful-widgets/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme"
+  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme",
+  "type": "module"
 }
